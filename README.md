@@ -1,0 +1,1 @@
+Olá, este é o primeiro repositório do projeto do Terapia em Foco, o qual visa unir clientes que desejam realizar atendimento psicológico online com os Psicólogos que fazem esses atendimentos.
